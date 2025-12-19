@@ -19,7 +19,7 @@ Members of the Gloucester County Amateur Radio Club (GCARC, New Jersey) saw the 
 - VSWR ~1.8:1 (tested with modeling software and Vector Network Analyzers).
 - Significantly better real-world performance than stock Meshtastic antennas in preliminary field tests.
 
-Project lead: Chris Priori (AD2CS), who handled redesign, 3D modeling, matching improvements, and assembly instructions.
+Project lead: Chris Prioli (AD2CS), who handled redesign, 3D modeling, matching improvements, and assembly instructions.
 
 In early December 2025, GCARC members built ~24 units in a group session, with encouraging range results.
 
